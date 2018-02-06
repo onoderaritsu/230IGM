@@ -10,7 +10,7 @@ http://www.rit,edu
 
 [RIT](http://www.rit,edu)
 
-![Aline Picture](http://www.hippymotorsusa.com/images/13857569720031698757581.jpeg)
+![this is a picture](http://content.internetvideoarchive.com/content/photos/10976/762574_209.jpg)
 
 ## Controls
 ## Story
