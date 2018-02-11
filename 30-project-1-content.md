@@ -23,4 +23,4 @@
 - when clicking the start button, there will be a sound
 
 ## Gameplay
-### Mechenics
+- 
