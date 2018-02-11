@@ -23,4 +23,7 @@
 - when clicking the start button, there will be a sound
 
 ## Gameplay
-- 
+![Conversation](https://github.com/onoderaritsu/230IGM/blob/master/conversation.jpg?raw=true)
+
+![Room Search]()
+
