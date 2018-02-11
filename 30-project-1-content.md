@@ -12,7 +12,7 @@
 
 ## Story
 - This is a story happens with a group of people in a small village, only one people gets the chance to get out from this village, people votes to decide who doesn't get that chance. With the story going on, a huge secret of this village is being shown.
-- It will be a little sceary in the beginning of the game, but when the game goes on, it will be put into a totally different mood
+- It will be a little sceary in the beginning of the game, but when the game goes on, players will be put into a totally different mood
 - When players finish different conversations and different actions, they will know the story as a whole.
 - Choices in a conversation and players' choices when facing different events will drive the plot
 - In order to accomplish the game, players need to walk through all conversations and all ends. (This is the motivation)
