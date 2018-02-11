@@ -23,7 +23,21 @@
 - when clicking the start button, there will be a sound
 
 ## Gameplay
+- players are able to click on different choices when doing conversations with characters, each choice may lead to different end
+
+- when in a room, players can search the room, and they can put different stuff (which they collected from other rooms or from different characters) on the same sopt, but each stuff will lead to different ends.
+
+- The control is clicking by the mouse.
+
+- There will be no teaching part on the conversation part, but in the first room, there will be a pretty obvious sign to show how drag stuff, and drop them
+- There is not much they need to learn on "how to play the game", beacuse everything is simple. However, if players know something about eastern culture, it will be easier for them to understand the background of the story.
+
+## Screenshots
 ![Conversation](https://github.com/onoderaritsu/230IGM/blob/master/conversation.jpg?raw=true)
+![Room Search](https://github.com/onoderaritsu/230IGM/blob/master/home.jpg?raw=true)
 
-![Room Search]()
+## Others
+- if the time is enough, I might make it into two languages (this may never happen)
 
+## About the developer
+- I'm Lydia, and I'm a NMID student, I'm a sophomore. I can speak two languages (English and Chinese), and I'm good at writting stories, also I can make posters with Illustrator and Photoshop.
