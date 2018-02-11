@@ -11,6 +11,7 @@
 - desktop only
 
 ## Story
+- This will be similar to some of the Japanese interactive fiction story (likeRei-Jin-G-Lu-P and Higurashi When They Cry）
 - This is a story happens with a group of people in a small village, only one people gets the chance to get out from this village, people votes to decide who doesn't get that chance. With the story going on, a huge secret of this village is being shown.
 - It will be a little sceary in the beginning of the game, but when the game goes on, players will be put into a totally different mood
 - When players finish different conversations and different actions, they will know the story as a whole.
